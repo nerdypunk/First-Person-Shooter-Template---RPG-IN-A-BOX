@@ -1,0 +1,3 @@
+load_map("overworld", coord[8, -31, 0], SOUTH);
+play_sound("void.wav");
+play_sound("flicker.wav");

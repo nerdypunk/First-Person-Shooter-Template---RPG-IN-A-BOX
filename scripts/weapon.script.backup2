@@ -1,0 +1,2 @@
+give_item("ITEM_0001", 1);
+equip_item(player, "right_hand", "ITEM_0001");

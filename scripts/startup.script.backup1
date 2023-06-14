@@ -1,0 +1,5 @@
+load_map("overworld", coord[8, -31, 0], SOUTH);
+play_sound("void.wav");
+play_sound("flicker.wav");
+give_item("ITEM_0001", 1);
+equip_item(player, "right_hand", "ITEM_0001");

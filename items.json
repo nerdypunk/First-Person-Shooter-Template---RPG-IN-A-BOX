@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Shotgun",
+      "description": "",
+      "tags": ["weapon"],
+      "properties": {},
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":10,"stat":"attack","type":"stat_boost"}],
+      "weapon": true,
+      "weapon_type": "ranged",
+      "weapon_projectile_speed": 0,
+      "weapon_min_range": 0,
+      "weapon_max_range": 20,
+      "view_model_object": "shotgun",
+      "usable": false
+    }
+  ],
+  "localized": false
+}
